@@ -1,9 +1,9 @@
 [[LCIO_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "90576a58d8cb9390c15c0bdd9cd246a40f8d7b0f"
+git-tree-sha1 = "37cfccc43d2d3637633e0ce197e28f5f873abb57"
 libc = "glibc"
 os = "linux"
 
     [[LCIO_Julia_Wrapper.download]]
-    sha256 = "dfcdccfbee3f65b7936efeccfe364ae217adbc4cae4bc029ed27a008d0278f0b"
-    url = "https://github.com/jstrube/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.100.0+0/LCIO_Julia_Wrapper.v0.100.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "524e621604318612d9214b2c66825af2e398bc67f15b473bce0e1d354dc0dda4"
+    url = "https://github.com/jstrube/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.101.0+0/LCIO_Julia_Wrapper.v0.101.0.x86_64-linux-gnu.tar.gz"
