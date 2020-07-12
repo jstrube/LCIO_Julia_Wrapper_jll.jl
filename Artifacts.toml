@@ -8,10 +8,10 @@ os = "macos"
     url = "https://github.com/jstrube/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.103.0+0/LCIO_Julia_Wrapper.v0.103.0.x86_64-apple-darwin14.tar.gz"
 [[LCIO_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "8306bf08e7958753e30a62f514a044b6fd4a45c4"
+git-tree-sha1 = "52cb4ad22db7ca49d88a9ff1a865851e965837f6"
 libc = "glibc"
 os = "linux"
 
     [[LCIO_Julia_Wrapper.download]]
-    sha256 = "09fa8ecf87396c3dd3ab604a32d64cee7f1b8a11ba6deaec2d4025fa9844ff78"
-    url = "https://github.com/jstrube/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.104.0+0/LCIO_Julia_Wrapper.v0.104.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "e029d192b6cb6000b2f623c832f1a95a725321f01aaced13461d0d611cbf75ba"
+    url = "https://github.com/jstrube/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.9.1-alpha+0/LCIO_Julia_Wrapper.v0.9.1-alpha.x86_64-linux-gnu.tar.gz"
