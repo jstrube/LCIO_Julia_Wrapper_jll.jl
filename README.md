@@ -14,7 +14,7 @@ The tarballs for `LCIO_Julia_Wrapper_jll.jl` have been built from these sources:
 
 `LCIO_Julia_Wrapper_jll.jl` is available for the following platforms:
 
-* `Linux(:x86_64, libc=:glibc)` (`x86_64-linux-gnu`)
+* `Linux(:x86_64, libc=:glibc, compiler_abi=CompilerABI(cxxstring_abi=:cxx11))` (`x86_64-linux-gnu-cxx11`)
 
 ## Dependencies
 
