@@ -18,10 +18,10 @@ os = "linux"
 [[LCIO_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "669ce739607b009df0cc83378bde7ca558586ee8"
+git-tree-sha1 = "0b242a091ebfc901972ee8f1e24c84cb6122a2ea"
 libc = "glibc"
 os = "linux"
 
     [[LCIO_Julia_Wrapper.download]]
-    sha256 = "eded77aa8c71e2db96825ce429a1d998b325cbecd352422fbaf68cbc0b940112"
+    sha256 = "7de42bf98256f79e25610e26add5b5a8c5fdf624617e1d7f7337c77d63bbdb09"
     url = "https://github.com/jstrube/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.10.1-alpha6+0/LCIO_Julia_Wrapper.v0.10.1-alpha6.x86_64-linux-gnu-cxx11.tar.gz"
