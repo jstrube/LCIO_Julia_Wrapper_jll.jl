@@ -24,4 +24,4 @@ os = "linux"
 
     [[LCIO_Julia_Wrapper.download]]
     sha256 = "7de42bf98256f79e25610e26add5b5a8c5fdf624617e1d7f7337c77d63bbdb09"
-    url = "https://github.com/jstrube/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.10.1-alpha6+0/LCIO_Julia_Wrapper.v0.10.1-alpha6.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/jstrube/LCIO_Julia_Wrapper_jll.jl/releases/download/LCIO_Julia_Wrapper-v0.10.1-alpha7+0/LCIO_Julia_Wrapper.v0.10.1-alpha7.x86_64-linux-gnu-cxx11.tar.gz"
